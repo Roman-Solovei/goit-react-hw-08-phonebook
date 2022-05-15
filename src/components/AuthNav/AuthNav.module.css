@@ -8,6 +8,10 @@
 }
 
 .activeLink {
-    composes: link;
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 700;
+    font-size: 18px;
     color: #268afd
 }

@@ -1,5 +1,5 @@
 import React from "react";
-import phoneBook from './phoneBook.png';
+// import phoneBook from './phoneBook.png';
 import s from './HomePage.module.css'
 
 
