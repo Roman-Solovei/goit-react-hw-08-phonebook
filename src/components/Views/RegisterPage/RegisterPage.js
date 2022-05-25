@@ -15,7 +15,7 @@ export default function RegisterPage() {
     const [password, setPassword] = useState('');
 
 
-    console.log(name)
+    // console.log(name)
 
 
     const handleChange = ({ target: { name, value } }) => {
